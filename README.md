@@ -1,16 +1,20 @@
-# covid_tracker_app
+# Covid_Tracker_App
 
-A new Flutter project.
+A completely responsive Covid_Tracker App- Works on Android & IOS
 
-## Getting Started
+- WorldStatesRecord-Api :- https://disease.sh/v3/covid-19/all
+- CountriesList-Api :- https://disease.sh/v3/covid-19/countries
 
-This project is a starting point for a Flutter application.
+### Images of App
 
-A few resources to get you started if this is your first Flutter project:
+Splash_Screen
+<img src="https://user-images.githubusercontent.com/67046451/208229713-b4dde0b2-8111-4516-930e-0d1f401eaa54.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+WorldStates_Screen
+<img src="https://user-images.githubusercontent.com/67046451/208229730-c79b6651-e161-4329-8c20-53f0eafb339d.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CountriesList_Screen
+<img src="https://user-images.githubusercontent.com/67046451/208229759-2e7ea7af-e8b5-41f9-80ad-94a191e1f717.png">
+
+Details_Screen
+<img src="https://user-images.githubusercontent.com/67046451/208229799-39068274-d6f0-4e0c-ab0c-f16aabd167ca.png">
